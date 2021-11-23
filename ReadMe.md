@@ -1,7 +1,7 @@
 
 # Vegetation Recovery after Wildfire
 ## Michael Forlenza
-###Analyze relationship between recovery from wildfire and terrain (slope and aspect)
+### Analyze relationship between recovery from wildfire and terrain (slope and aspect)
 
 ### Functions written by Galen Maclaurin, updated by Ricardo Oliveira, reclassify the DEM into different zones by slope and aspect
 # Files utilized:
